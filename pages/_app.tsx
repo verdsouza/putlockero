@@ -16,17 +16,17 @@ function MyApp({ Component, pageProps }: AppProps) {
   useEffect(() => {
     // Load ad scripts after page load to prevent blocking
     const loadAdScripts = () => {
-   
+
       // Load first ad script
       const adScript1 = document.createElement('script');
-      adScript1.innerHTML = `(function(s){s.dataset.zone='10603390',s.src='gizokraijaw.net/vignette.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))`;
+      adScript1.innerHTML = `(function(s){s.dataset.zone='10606755',s.src='gizokraijaw.net/vignette.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))`;
       document.head.appendChild(adScript1);
 
 
       // Load second ad script
  
       const adScript2 = document.createElement('script');
-      adScript2.innerHTML = `(function(s){s.dataset.zone='10603386',s.src='https://nap5k.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))`;
+      adScript2.innerHTML = `(function(s){s.dataset.zone='10606754',s.src='https://nap5k.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))`;
       document.head.appendChild(adScript2);
 
        // Load third ad script
