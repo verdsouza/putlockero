@@ -3,11 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
+    "build": "next build"
+   },
   "dependencies": {
     "clsx": "^2.1.0",
     "hls.js": "^1.5.7",
