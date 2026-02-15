@@ -7,84 +7,84 @@
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
   <url>
-    <loc>https://putlockero.netlify.app/</loc>
+    <loc>https://putlockero.vercel.app/</loc>
     <lastmod>2026-01-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://putlockero.netlify.app/Movies</loc>
+    <loc>https://putlockero.vercel.app/Movies</loc>
     <lastmod>2026-01-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://putlockero.netlify.app/tv</loc>
+    <loc>https://putlockero.vercel.app/tv</loc>
     <lastmod>2026-01-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://putlockero.netlify.app/Sports</loc>
+    <loc>https://putlockero.vercel.app/Sports</loc>
     <lastmod>2026-01-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://putlockero.netlify.app/live</loc>
+    <loc>https://putlockero.vercel.app/live</loc>
     <lastmod>2026-01-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://putlockero.netlify.app/About</loc>
+    <loc>https://putlockero.vercel.app/About</loc>
     <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://putlockero.netlify.app/Contact</loc>
+    <loc>https://putlockero.vercel.app/Contact</loc>
     <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://putlockero.netlify.app/FAQ</loc>
+    <loc>https://putlockero.vercel.app/FAQ</loc>
     <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://putlockero.netlify.app/Privacy</loc>
+    <loc>https://putlockero.vercel.app/Privacy</loc>
     <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://putlockero.netlify.app/Terms</loc>
+    <loc>https://putlockero.vercel.app/Terms</loc>
     <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
    <url>
-    <loc>https://putlockero.netlify.app/DMCA</loc>
+    <loc>https://putlockero.vercel.app/DMCA</loc>
     <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
    <url>
-    <loc>https://putlockero.netlify.app/Request</loc>
+    <loc>https://putlockero.vercel.app/Request</loc>
     <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
