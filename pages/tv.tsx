@@ -112,7 +112,7 @@ const TVShows: React.FC = () => {
     "@type": "CollectionPage",
     "name": "Latest TV Shows",
     "description": "Watch the newest TV series from this year on PUTLOCKER™ Official.",
-    "url": "https://justwatch4free-official.vercel.app/tv"
+    "url": "https://putlockero.vercel.app/tv"
   };
 
   if (loading) {

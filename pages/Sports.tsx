@@ -64,13 +64,13 @@ const Sports: React.FC = () => {
     "@type": "CollectionPage",
     "name": "Live Sports Streaming",
     "description": "Watch live sports events including Cricket, Football, Tennis and more in HD.",
-    "url": "https://justwatch4free-official.vercel.app/sports",
+    "url": "https://putlockero.vercel.app/sports",
     "mainEntity": {
       "@type": "ItemList",
       "itemListElement": sports.slice(0, 10).map((item, index) => ({
         "@type": "ListItem",
         "position": index + 1,
-        "url": `https://justwatch4free-official.vercel.app/watch/sports/${item.id}`,
+        "url": `https://putlockero.vercel.app/watch/sports/${item.id}`,
         "name": item.title || item.name
       }))
     }

@@ -37,19 +37,19 @@ function MyApp({ Component, pageProps }: AppProps) {
 
       // Load clicky script
 
-      // const clickyScript1 = document.createElement('script');
-      // clickyScript1.async = true;
-      // clickyScript1.setAttribute('data-id', '101501287');
-      // clickyScript1.src = '//static.getclicky.com/js';
-      // document.head.appendChild(clickyScript1);
+      const clickyScript1 = document.createElement('script');
+      clickyScript1.async = true;
+      clickyScript1.setAttribute('data-id', '101501290');
+      clickyScript1.src = '//static.getclicky.com/js';
+      document.head.appendChild(clickyScript1);
 
       // Load additional script
       
-      // const clickyScript2 = document.createElement('script');
-      // clickyScript2.async = true;
-      // clickyScript2.setAttribute('data-id', '101501287');
-      // clickyScript2.src = '/7cf2cb7b96e6eb67d.js';
-      // document.head.appendChild(clickyScript2);
+      const clickyScript2 = document.createElement('script');
+      clickyScript2.async = true;
+      clickyScript2.setAttribute('data-id', '101501290');
+      clickyScript2.src = '/8866e9dfdf.js';
+      document.head.appendChild(clickyScript2);
     };
 
     // Load ads after page is fully loaded
@@ -84,12 +84,12 @@ function MyApp({ Component, pageProps }: AppProps) {
         <meta name="theme-color" content="#0a0a0a" />
         <meta name="robots" content="index, follow" />
         <link rel="icon" href="/logo.png" type="image/png" />
-        <link rel="canonical" href="https://justwatch4free-official.vercel.app/" />
+        <link rel="canonical" href="https://putlockero.vercel.app/" />
         <title>PUTLOCKER™ Official</title>
       </Head>
         {/* Google Analytics */}
-        {/* <Script
-        src="https://www.googletagmanager.com/gtag/js?id=G-1N748G09QR"
+        <Script
+        src="https://www.googletagmanager.com/gtag/js?id=G-2LYSER1MMN"
         strategy="afterInteractive"
       />
       <Script id="google-analytics" strategy="afterInteractive">
@@ -97,9 +97,9 @@ function MyApp({ Component, pageProps }: AppProps) {
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
-          gtag('config', 'G-1N748G09QR');
+          gtag('config', 'G-2LYSER1MMN');
         `}
-      </Script> */}
+      </Script>
 
       {/* Security Warning Toast */}
       <div 

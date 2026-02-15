@@ -25,7 +25,7 @@ const Contact: React.FC = () => {
     "@type": "ContactPage",
     "name": "Contact PUTLOCKER™ Official",
     "description": "Get in touch with the PUTLOCKER™ Official team for support, requests, or DMCA inquiries.",
-    "url": "https://justwatch4free-official.vercel.app/contact"
+    "url": "https://putlockero.vercel.app/contact"
   };
 
   return (

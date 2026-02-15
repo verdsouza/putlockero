@@ -111,7 +111,7 @@ const Movies: React.FC = () => {
     "@type": "CollectionPage",
     "name": "Latest Movies",
     "description": "Watch the newest movie releases from the current year on PUTLOCKER™ Official.",
-    "url": "https://justwatch4free-official.vercel.app/Movies"
+    "url": "https://putlockero.vercel.app/Movies"
   };
 
   if (loading) {

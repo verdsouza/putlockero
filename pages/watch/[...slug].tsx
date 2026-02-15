@@ -120,13 +120,13 @@
 //         '@type': 'ListItem',
 //         position: 1,
 //         name: 'Home',
-//         item: 'https://justwatch4free-official.vercel.app',
+//         item: 'https://putlockero.vercel.app',
 //       },
 //       {
 //         '@type': 'ListItem',
 //         position: 2,
 //         name: type === 'movie' ? 'Movies' : type === 'tv' ? 'TV Shows' : type === 'sports' ? 'Sports' : 'Live TV',
-//         item: `https://justwatch4free-official.vercel.app/${
+//         item: `https://putlockero.vercel.app/${
 //           type === 'movie' ? 'movies' : type === 'tv' ? 'tv' : type === 'sports' ? 'sports' : 'live'
 //         }`,
 //       },
@@ -177,7 +177,7 @@
 //       {!isPaidUser && youtubeTrailerId ? (
 //         <>
 //           <SEO
-//             title={`${title} - Official Trailer | Watch Free on Justwatch4Free™ Official`}
+//             title={`${title} - Official Trailer | Watch Free on PUTLOCKER™ Official`}
 //             description={`Watch the official trailer for ${title}. ${description.substring(0, 150)}... Unlock the full movie in HD quality.`}
 //             image={getImageUrl(details.backdrop_path || details.poster_path, 'original')}
 //             type="video.other"
@@ -199,8 +199,8 @@
 //                 duration: 'PT2M30S',
 //                 publisher: {
 //                   '@type': 'Organization',
-//                   name: 'Justwatch4Free™ Official',
-//                   logo: { '@type': 'ImageObject', url: 'https://justwatch4free-official.vercel.app/logo.png' },
+//                   name: 'PUTLOCKER™ Official',
+//                   logo: { '@type': 'ImageObject', url: 'https://putlockero.vercel.app/logo.png' },
 //                 },
 //               }),
 //             }}
@@ -208,7 +208,7 @@
 //         </>
 //       ) : (
 //         <SEO
-//           title={`${title} - Watch Free on Justwatch4Free™ Official`}
+//           title={`${title} - Watch Free on PUTLOCKER™ Official`}
 //           description={description}
 //           image={getImageUrl(details.poster_path, 'original')}
 //           type="video.movie"
@@ -601,13 +601,13 @@ const WatchPage: React.FC<WatchPageProps> = ({
         '@type': 'ListItem',
         position: 1,
         name: 'Home',
-        item: 'https://justwatch4free-official.vercel.app/',
+        item: 'https://putlockero.vercel.app/',
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: type === 'movie' ? 'Movies' : type === 'tv' ? 'TV Shows' : type === 'sports' ? 'Sports' : 'Live TV',
-        item: `https://justwatch4free-official.vercel.app/${
+        item: `https://putlockero.vercel.app/${
           type === 'movie' ? 'movies' : type === 'tv' ? 'tv' : type === 'sports' ? 'sports' : 'live'
         }`,
       },
@@ -658,7 +658,7 @@ const WatchPage: React.FC<WatchPageProps> = ({
       {!isPaidUser && youtubeTrailerId ? (
         <>
           <SEO
-            title={`${title} - Official Trailer | Watch Free on Justwatch4Free™ Official`}
+            title={`${title} - Official Trailer | Watch Free on PUTLOCKER™ Official`}
             description={`Watch the official trailer for ${title}. ${description.substring(0, 150)}... Unlock the full movie in HD quality.`}
             image={getImageUrl(details.backdrop_path || details.poster_path, 'original')}
             type="video.other"
@@ -680,8 +680,8 @@ const WatchPage: React.FC<WatchPageProps> = ({
                 duration: 'PT2M30S',
                 publisher: {
                   '@type': 'Organization',
-                  name: 'Justwatch4Free™ Official',
-                  logo: { '@type': 'ImageObject', url: 'https://justwatch4free-official.vercel.app/logo.png' },
+                  name: 'PUTLOCKER™ Official',
+                  logo: { '@type': 'ImageObject', url: 'https://putlockero.vercel.app/logo.png' },
                 },
               }),
             }}
@@ -689,7 +689,7 @@ const WatchPage: React.FC<WatchPageProps> = ({
         </>
       ) : (
         <SEO
-          title={`${title} - Watch Free on Justwatch4Free™ Official`}
+          title={`${title} - Watch Free on PUTLOCKER™ Official`}
           description={description}
           image={getImageUrl(details.poster_path, 'original')}
           type="video.movie"

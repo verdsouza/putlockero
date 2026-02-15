@@ -8,19 +8,19 @@ export default function Document() {
       {
         "@type": "WebSite",
         "name": "PUTLOCKER™ Official | Premium Video Entertainment",
-        "url": "https://justwatch4free-official.vercel.app/",
+        "url": "https://putlockero.vercel.app/",
         "description": "PUTLOCKER™ Official - Stream thousands of Movies, TV Shows, and Live Sports for free in HD quality. No registration required.",
         "potentialAction": {
           "@type": "SearchAction",
-          "target": "https://justwatch4free-official.vercel.app/#/?search={search_term_string}",
+          "target": "https://putlockero.vercel.app/#/?search={search_term_string}",
           "query-input": "required name=search_term_string"
         }
       },
       {
         "@type": "Organization",
         "name": "PUTLOCKER™ Official",
-        "url": "https://justwatch4free-official.vercel.app/",
-        "logo": "https://justwatch4free-official.vercel.app/logo.png",
+        "url": "https://putlockero.vercel.app/",
+        "logo": "https://putlockero.vercel.app/logo.png",
         "sameAs": [
           "https://facebook.com/putlockerofficial",
           "https://twitter.com/putlockerofficial"
@@ -35,30 +35,30 @@ export default function Document() {
         "@type": "CollectionPage",
         "name": "Streaming Library",
         "description": "Browse our extensive collection of Movies, TV Shows, Live Sports, and Live TV Channels.",
-        "url": "https://justwatch4free-official.vercel.app/",
+        "url": "https://putlockero.vercel.app/",
         "hasPart": [
           {
             "@type": "SiteNavigationElement",
             "name": "Movies",
-            "url": "https://justwatch4free-official.vercel.app/movies",
+            "url": "https://putlockero.vercel.app/movies",
             "description": "Watch the latest blockbuster movies in HD."
           },
           {
             "@type": "SiteNavigationElement",
             "name": "TV Shows",
-            "url": "https://justwatch4free-official.vercel.app/tv",
+            "url": "https://putlockero.vercel.app/tv",
             "description": "Stream trending TV series and episodes."
           },
           {
             "@type": "SiteNavigationElement",
             "name": "Live Sports",
-            "url": "https://justwatch4free-official.vercel.app/sports",
+            "url": "https://putlockero.vercel.app/sports",
             "description": "Live coverage of Premier League, NBA, F1, and more."
           },
           {
             "@type": "SiteNavigationElement",
             "name": "Live TV",
-            "url": "https://justwatch4free-official.vercel.app/live",
+            "url": "https://putlockero.vercel.app/live",
             "description": "24/7 Live TV Channels for News and Entertainment."
           }
         ]

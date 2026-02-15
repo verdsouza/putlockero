@@ -200,10 +200,10 @@ const Home: React.FC<HomePageProps> = ({ trending, popularMovies, topRatedTV, he
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "PUTLOCKER™ Official",
-    "url": "https://justwatch4free-official.vercel.app",
+    "url": "https://putlockero.vercel.app",
     "potentialAction": {
       "@type": "SearchAction",
-      "target": "https://justwatch4free-official.vercel.app/search?q={search_term_string}",
+      "target": "https://putlockero.vercel.app/search?q={search_term_string}",
       "query-input": "required name=search_term_string"
     }
   };

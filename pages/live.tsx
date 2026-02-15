@@ -65,13 +65,13 @@ const LiveTV: React.FC = () => {
     "@type": "CollectionPage",
     "name": "Live TV Channels",
     "description": "Watch live TV channels, news, and entertainment 24/7 online for free.",
-    "url": "https://justwatch4free-official.vercel.app/live",
+    "url": "https://putlockero.vercel.app/live",
      "mainEntity": {
       "@type": "ItemList",
       "itemListElement": channels.slice(0, 10).map((item, index) => ({
         "@type": "ListItem",
         "position": index + 1,
-        "url": `https://justwatch4free-official.vercel.app/watch/tv_live/${item.id}`,
+        "url": `https://putlockero.vercel.app/watch/tv_live/${item.id}`,
         "name": item.title || item.name
       }))
     }

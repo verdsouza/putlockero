@@ -8,7 +8,7 @@ const DMCA: React.FC = () => {
     "@type": "WebPage",
     "name": "DMCA Policy",
     "description": "Digital Millennium Copyright Act policy and takedown procedures for PUTLOCKER™ Official.",
-    "url": "https://justwatch4free-official.vercel.app/dmca"
+    "url": "https://putlockero.vercel.app/dmca"
   };
 
   return (

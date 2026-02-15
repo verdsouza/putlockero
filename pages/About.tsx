@@ -9,13 +9,13 @@ const About: React.FC = () => {
     "name": "About PUTLOCKER™ Official",
     
     "description": "PUTLOCKER™ Official is a premier streaming platform for movies, TV shows, and live sports.",
-    "url": "https://justwatch4free-official.vercel.app/about",
+    "url": "https://putlockero.vercel.app/about",
     "publisher": {
       "@type": "Organization",
       "name": "PUTLOCKER™ Official",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://justwatch4free-official.vercel.app/logo.png"
+        "url": "https://putlockero.vercel.app/logo.png"
       }
     }
   };

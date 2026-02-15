@@ -14,13 +14,13 @@ interface SEOProps {
 const SEO: React.FC<SEOProps> = ({ 
   title, 
   description = "PUTLOCKER™ Official - Stream thousands of Movies, TV Shows, and Live Sports for free in HD quality. No registration required.",
-  image = "https://justwatch4free-official.vercel.app/og-image.jpg",
+  image = "https://putlockero.vercel.app/og-image.jpg",
   type = "website",
   schema,
   path = "",
   keywords = ['putlocker','putlockerto','putlocker.bot','putlockers','putlocker to','putlocker com','putlocker hd','putlockerhde','putlocker is','putlocker movies','official putlocker','putlocker free','free movies','movies online','watch movies online','watch movies free','film','cinema','entertainment','hollywood movies','bollywood movies','hollywood dubbed movies','web Series Online','live sports','streaming','HD streaming']
 }) => {
-  const siteUrl = "https://justwatch4free-official.vercel.app/";
+  const siteUrl = "https://putlockero.vercel.app/";
   const url = `${siteUrl}${path}`;
   const formattedTitle = title.includes('PUTLOCKER™ Official') ? title : `${title} | Premium Video Entertainment`;
 
